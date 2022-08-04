@@ -1,6 +1,5 @@
 # platformio.ini
-- ~#default_envs = STM32F103RC_btt_512K~
-- #default_envs = STM32F103RC_btt
+- `default_envs = STM32F103RC_btt_512K`
 # Configuration.h
 - uncomment 
     - `#define BLTOUCH`
