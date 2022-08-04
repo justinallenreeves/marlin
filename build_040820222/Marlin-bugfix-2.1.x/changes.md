@@ -1,3 +1,6 @@
+# Fetch header files from
+- https://github.com/MarlinFirmware/Configurations/tree/bugfix-2.1.x/config/examples/Creality/Ender-3%20Pro/BigTreeTech%20SKR%20Mini%20E3%202.0
+
 # platformio.ini
 - `default_envs = STM32F103RC_btt_512K`
 # Configuration.h
